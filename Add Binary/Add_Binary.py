@@ -16,7 +16,3 @@ class Solution:
             sodu = tong // 2
         return "".join(reversed(ketqua))
         
-a = "11"
-b = '1'
-s=Solution()
-print(s.addBinary(a = a,b = b))
