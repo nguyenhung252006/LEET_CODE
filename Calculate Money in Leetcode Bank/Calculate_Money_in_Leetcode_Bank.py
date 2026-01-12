@@ -23,4 +23,4 @@ class Solution(object):
 
 
 s = Solution()
-print(s.totalMoney(10))  # ✅ Output: 37
+print(s.totalMoney(10)) 
