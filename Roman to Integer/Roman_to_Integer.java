@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class Roman_to_Integer {
     public int romanToInt(String s) {
         char a[] = s.toCharArray();
         Map<Character, Integer> map = Map.of(

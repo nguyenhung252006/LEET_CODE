@@ -1,4 +1,4 @@
-class Solution {
+class AddBinary {
         static int sodu = 0;    
         static boolean check(int a) {
             if(a == 1) return true;

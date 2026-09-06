@@ -1,5 +1,5 @@
 
-class Solution {
+class Roman_to_Integer {
 
     public int removeElement(int[] nums, int val) {
         int count = 0;

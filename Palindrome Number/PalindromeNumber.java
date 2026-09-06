@@ -1,4 +1,4 @@
-class Solution {
+class Longest_Palindromic_Substring {
     public boolean isPalindrome(int x) {
         String str = String.valueOf(x);
         char array[] = str.toCharArray();

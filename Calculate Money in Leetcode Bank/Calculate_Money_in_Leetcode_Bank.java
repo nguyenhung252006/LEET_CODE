@@ -1,4 +1,4 @@
-class Solution {
+class Calculate_Money_in_Leetcode_Bank {
     public int totalMoney(int n) {
         int week = n / 7;
         int days = n % 7;
