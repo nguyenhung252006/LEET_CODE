@@ -6,7 +6,7 @@ class plusOne {
                 return digits;
             }
             digits[i] = 0;
-        }        
+        }
         int result[] = new int[digits.length + 1];
         result[0] = 1;
         for (int i = 0; i < digits.length; i++) {
